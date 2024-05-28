@@ -1,0 +1,11 @@
+{
+    "recommendations": [
+        "ms-python.python",
+        "yzane.markdown-pdf",
+        "yzhang.markdown-all-in-one",
+        "davidanson.vscode-markdownlint",
+        "tomoki1207.pdf",
+        "github.vscode-github-actions",
+        "jock.svg"
+    ]
+}
